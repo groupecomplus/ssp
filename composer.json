@@ -1,0 +1,19 @@
+{
+    "name": "groupecomplus/ssp",
+    "description": "Server Side Processing class for DataTables",
+    "type": "library",
+    "require-dev": {
+        "phpstan/phpstan": "1.10.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Groupe Complus",
+            "email": "cdigital.team@groupecomplus.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-pdo": "*"
+    }
+}
